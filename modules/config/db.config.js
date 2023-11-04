@@ -1,3 +1,3 @@
-const DB_URL = "mongodb+srv://Bijay-Maharjan:admin123@cluster0.onqc4cv.mongodb.net/todo?retryWrites=true&w=majority";
+const DB_URL = "mongodb_URL";
 
 module.exports = DB_URL;
